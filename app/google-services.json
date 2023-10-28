@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "616999199587",
+    "project_id": "quiz-zone-f76b1",
+    "storage_bucket": "quiz-zone-f76b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616999199587:android:fefc2358557655014a2956",
+        "android_client_info": {
+          "package_name": "com.cscorner.quizzone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhSLBgWpFAQ19-ABgA-cuZrQIL-DFiEMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
